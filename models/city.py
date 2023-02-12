@@ -9,3 +9,4 @@ class City(BaseModel):
     """defines city to look for"""
     state_id = ""
     name = ""
+
